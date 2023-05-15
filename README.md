@@ -16,7 +16,15 @@ $ npm install
 
 ## Usage
 
-setup your bot token in the .env file at the root of the project
+### Setup
+
+setup your bot token in the **_.env_** file at the root of the project:
+
+```
+DISCORD_TOKEN= <your token>
+```
+
+### Run
 
 ```console
 $ npm start
